@@ -1,0 +1,16 @@
+{
+  "name": "reader",
+  "version": "1.0.0",
+  "description": "JSON reader",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sergio Mosquera",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "file-system": "^2.2.2"
+  }
+}

@@ -1,0 +1,1 @@
+[{"targets":["localhost:8080","localhost:8083"],"labels":{"env":"prod","job":"targets"}}]
